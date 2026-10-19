@@ -18,7 +18,7 @@ cloud-synced profiles, page-aware AI and full extension support.
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/adrianfilitos/nixerbrowser)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/adrianfilitos/nixerbrowser)
 
-<a href="https://github.com/adrianfilitos/nixerbrowser"><img src="assets/nixer-browser.png" width="100%" alt="Nixer Browser — start page with tabs, shields and quick actions"></a>
+<a href="https://github.com/adrianfilitos/nixerbrowser"><img src="assets/nixer-browser.png" width="100%" alt="Nixer Browser on Windows, browsing its own landing page"></a>
 
 ---
 
