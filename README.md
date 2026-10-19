@@ -9,7 +9,8 @@ run here?* and end with the answer being yes.
 
 ## Selected work
 
-**[Nixer Browser](https://github.com/adrianfilitos/nixerbrowser)**
+### [Nixer Browser](https://github.com/adrianfilitos/nixerbrowser)
+
 A Chromium browser with its own React interface: native shields and ad blocking,
 cloud-synced profiles, page-aware AI and full extension support.
 
@@ -17,7 +18,12 @@ cloud-synced profiles, page-aware AI and full extension support.
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/adrianfilitos/nixerbrowser)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/adrianfilitos/nixerbrowser)
 
-**[opencode-mobile](https://github.com/adrianfilitos/opencode-mobile)**
+<a href="https://github.com/adrianfilitos/nixerbrowser"><img src="assets/nixer-browser.png" width="100%" alt="Nixer Browser — start page with tabs, shields and quick actions"></a>
+
+---
+
+### [opencode-mobile](https://github.com/adrianfilitos/opencode-mobile)
+
 iOS client for my self-hosted OpenCode server, plus a small Windows helper that
 makes the local server reachable from the phone.
 
@@ -25,13 +31,20 @@ makes the local server reachable from the phone.
 [![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)](https://github.com/adrianfilitos/opencode-mobile)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/adrianfilitos/opencode-mobile)
 
-**[Nova](https://github.com/adrianfilitos/deneb-editor)**
+<p align="center"><a href="https://github.com/adrianfilitos/opencode-mobile"><img src="assets/opencode-mobile.png" width="280" alt="opencode-mobile — chat with the agent from the phone"></a></p>
+
+---
+
+### [Nova](https://github.com/adrianfilitos/deneb-editor)
+
 A code editor with AI built in, for web and desktop. Monaco under the hood, a
 real LSP, a working debugger and a VS Code extension host.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/adrianfilitos/deneb-editor)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://github.com/adrianfilitos/deneb-editor)
 [![Monaco](https://img.shields.io/badge/Monaco-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/adrianfilitos/deneb-editor)
+
+<a href="https://github.com/adrianfilitos/deneb-editor"><img src="assets/nova.png" width="100%" alt="Nova — editor with explorer, tabs and syntax highlighting"></a>
 
 ---
 
