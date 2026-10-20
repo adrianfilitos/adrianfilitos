@@ -2,6 +2,8 @@
 
 *I take software apart to learn how it's built, then build my own version.*
 
+[adrianfilitos.github.io](https://adrianfilitos.github.io/) · [GitHub](https://github.com/adrianfilitos) · [Email](mailto:adrianfilitos@gmail.com)
+
 Mostly self-taught, mostly on Windows. My projects tend to start with *can this
 run here?* and end with the answer being yes.
 
