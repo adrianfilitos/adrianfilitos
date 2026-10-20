@@ -2,7 +2,7 @@
 
 *I take software apart to learn how it's built, then build my own version.*
 
-[adrianfilitos.github.io](https://adrianfilitos.github.io/) · [GitHub](https://github.com/adrianfilitos) · [Email](mailto:adrianfilitos@gmail.com)
+[adrianfilitos.github.io](https://adrianfilitos.github.io/) · [GitHub](https://github.com/adrianfilitos) · [npm](https://www.npmjs.com/~adrianfilitos) · [CurseForge](https://www.curseforge.com/members/adrianfilitos) · [Email](mailto:adrianfilitos@gmail.com)
 
 Mostly self-taught, mostly on Windows. My projects tend to start with *can this
 run here?* and end with the answer being yes.
@@ -50,6 +50,17 @@ real LSP, a working debugger and a VS Code extension host.
 
 ---
 
+### [Esmerald Tools](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
+
+A NeoForge mod that adds emerald tools with abilities: an area-mining pickaxe,
+an axe with double drops, and more.
+
+[![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
+[![NeoForge](https://img.shields.io/badge/NeoForge-EA6D1F?style=flat-square)](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
+
+---
+
 ## Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -68,4 +79,5 @@ real LSP, a working debugger and a VS Code extension host.
 ## Say hi
 
 [![GitHub](https://img.shields.io/badge/GitHub-adrianfilitos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianfilitos)
+[![CurseForge](https://img.shields.io/badge/CurseForge-adrianfilitos-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/adrianfilitos)
 [![Email](https://img.shields.io/badge/Email-adrianfilitos%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianfilitos@gmail.com)
