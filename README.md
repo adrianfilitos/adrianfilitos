@@ -1,11 +1,17 @@
 # Nixer
 
+**Software developer.** I build open source desktop tools for Windows.
+
 *I take software apart to learn how it's built, then build my own version.*
 
 [adrianfilitos.github.io](https://adrianfilitos.github.io/) · [GitHub](https://github.com/adrianfilitos) · [npm](https://www.npmjs.com/~adrianfilitos) · [CurseForge](https://www.curseforge.com/members/adrianfilitos) · [Email](mailto:adrianfilitos@gmail.com)
 
 Mostly self-taught, mostly on Windows. My projects tend to start with *can this
 run here?* and end with the answer being yes.
+
+My main focus is desktop software: a browser, a code editor, a mobile client for
+a coding agent, and a cloud gaming portal. Minecraft mods for NeoForge are a side
+project.
 
 ---
 
@@ -37,6 +43,17 @@ makes the local server reachable from the phone.
 
 ---
 
+### [oc-notify](https://github.com/adrianfilitos/oc-notify)
+
+A CLI that watches OpenCode permission requests and sends them to your phone
+through ntfy, with Allow, Always and Deny buttons on the notification.
+
+On npm: [oc-notify](https://www.npmjs.com/package/oc-notify)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/adrianfilitos/oc-notify)
+
+---
+
 ### [Nova](https://github.com/adrianfilitos/deneb-editor)
 
 A code editor with AI built in, for web and desktop. Monaco under the hood, a
@@ -53,7 +70,7 @@ real LSP, a working debugger and a VS Code extension host.
 ### [Esmerald Tools](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
 
 A NeoForge mod that adds emerald tools with abilities: an area-mining pickaxe,
-an axe with double drops, and more.
+an axe with double drops, and more. A side project alongside the desktop tools.
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
 [![NeoForge](https://img.shields.io/badge/NeoForge-EA6D1F?style=flat-square)](https://www.curseforge.com/minecraft/mc-mods/minecraft-esmerald-tools)
